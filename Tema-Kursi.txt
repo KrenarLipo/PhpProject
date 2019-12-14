@@ -1,0 +1,18 @@
+
+Temat e Ushtrimit Praktik
+
+1. Evolution of the github system during the years, why it is so needed nowadays?
+
+2. Most demanding programming language in 2020, what we should learn?
+
+3. Frontend vs. Backend Developers: What’s the Difference? What should we choose?
+
+4. History and Evolution of computer animation, from black and white to 3d?
+
+5. WordPress website for a Web Agency?
+
+6. WordPress website for a Bar/Restaurant?
+
+7. WordPress website for an Hotel?
+
+8. WordPress website for a shop who is selling toys for childrens, using well known cartoons?
